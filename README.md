@@ -1,1 +1,1 @@
-Demonstrating HTML, XHTML, CSS and CSS3 with responsive design
+Demonstrating HTML, XHTML, CSS and CSS3 with (RWD) responsive web development
